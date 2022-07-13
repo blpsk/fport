@@ -1,0 +1,5 @@
+# Build directory
+target/
+
+# IntelliJ CLion IDE
+.idea/
